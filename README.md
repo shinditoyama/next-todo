@@ -8,7 +8,7 @@ Aplicação de Todo List construído com Next.js, Tailwind CSS e Zustand.
 
 Se você deseja experimentar o sistema, confira a demonstração anexado no link abaixo:
 
-**live demo: [https://next-todo-flame.vercel.app/](https://next-todo-flame.vercel.app/)**
+**live demo: [https://next-todo-khaki.vercel.app/](https://next-todo-khaki.vercel.app/)**
 
 ## Features
 
